@@ -1,0 +1,7 @@
+# Forest Runner Adventure - dependencies
+#
+# The game itself only needs the Python standard library (tkinter, json, math,
+# random, pathlib, winsound). This file lists the tooling needed to build a
+# standalone Windows executable.
+
+pyinstaller>=6.0
