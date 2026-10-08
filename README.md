@@ -44,6 +44,8 @@ pyinstaller --onefile --windowed --name ForestRunAdventure forest_run_adventure.
 
 or simply double-click `build_windows.bat`. The standalone executable appears at
 `dist/ForestRunAdventure.exe`. The high-score file is written next to the EXE.
+## ScreenShots
+![Start Screen](SS/start_screen.png)  ![GamePlay](SS/gameplay.png)   ![Game Over](SS/game_over.png)
 
 ## Project layout
 
